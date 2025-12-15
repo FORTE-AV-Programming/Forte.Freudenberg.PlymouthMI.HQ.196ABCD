@@ -1,0 +1,366 @@
+{
+  "_fm": {
+    "_createdByProjectApp": "1.4301.17.0",
+    "_lastModifiedByProjectApp": "1.4301.17.0",
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.701.5.0",
+    "_created": "2025-12-15T16:00:25.6284481-05:00",
+    "_lastModifiedByAppHost": "2.701.5.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2025-12-15T16:00:25.6284428-05:00"
+  },
+  "_ct": {
+    "_id": "1c922c23-7691-4d66-83f3-02da20846d76",
+    "_nm": "Freudenberg_MI_HQ_196Div",
+    "_ds": "",
+    "_vr": "1.0.0.0",
+    "_ex": 0,
+    "_pg": [
+      {
+        "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a",
+        "_nm": "A-Main",
+        "_ds": "A-Main",
+        "_cn": "AMain",
+        "_et": "Page",
+        "_cf": 1,
+        "_ac": "",
+        "_co": [],
+        "_st": [
+          {
+            "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+            "_nm": "Indirect",
+            "_fn": "Indirect",
+            "_gn": "Indirect Text",
+            "_qm": "Indirect",
+            "_cn": "Indirect",
+            "_ln": "Formatted-Text",
+            "_sn": "FormattedText",
+            "_nt": "Formatted-Text.Indirect",
+            "_at": 1,
+            "_dt": 2,
+            "_cf": 0,
+            "_qn": "AMain.FormattedText.Indirect",
+            "_mi": 1,
+            "_po": 1,
+            "_ii": -1,
+            "_sf": 0,
+            "_co": "",
+            "_li": -1
+          }
+        ],
+        "_ev": [],
+        "_ic": -1
+      }
+    ],
+    "_wg": {},
+    "_gw": [],
+    "_pc": [],
+    "_sp": {
+      "_id": "1c922c23-7691-4d66-83f3-02da20846d76",
+      "_nm": "Freudenberg_MI_HQ_196Div",
+      "_ds": "",
+      "_vr": "1.0.0.0",
+      "_in": [
+        {
+          "_ci": 1,
+          "_in": [],
+          "_sr": 1,
+          "_be": [],
+          "_bs": [],
+          "_ne": [],
+          "_ns": [],
+          "_se": [
+            {
+              "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+              "_sm": "[~UNUSED~]",
+              "_pn": "FormattedText.Indirect",
+              "_sn": "",
+              "_gn": "Indirect Text",
+              "_jo": 0,
+              "_ai": "",
+              "_no": "Formatted-Text.Indirect",
+              "_cf": 0,
+              "_mi": 1,
+              "_po": 1,
+              "_ii": -1,
+              "_sf": 0,
+              "_fn": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+              "_cp": "FormattedText",
+              "_it": -1
+            }
+          ],
+          "_ss": [
+            {
+              "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+              "_sm": "FormattedText",
+              "_pn": "FormattedText.Indirect",
+              "_sn": "FormattedText_Indirect",
+              "_gn": "Indirect Text",
+              "_jo": 1,
+              "_ai": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+              "_no": "Formatted-Text.Indirect",
+              "_cf": 0,
+              "_mi": 1,
+              "_po": 1,
+              "_ii": -1,
+              "_sf": 0,
+              "_fn": "AMain.FormattedText.Indirect",
+              "_cp": "AMain",
+              "_it": -1
+            }
+          ],
+          "_io": true,
+          "_ap": "",
+          "_co": {
+            "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a",
+            "_nm": "A-Main",
+            "_ds": "A-Main",
+            "_cn": "AMain",
+            "_et": "Page",
+            "_cf": 1,
+            "_ac": "",
+            "_co": [],
+            "_st": [
+              {
+                "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                "_nm": "Indirect",
+                "_fn": "Indirect",
+                "_gn": "Indirect Text",
+                "_qm": "Indirect",
+                "_cn": "Indirect",
+                "_ln": "Formatted-Text",
+                "_sn": "FormattedText",
+                "_nt": "Formatted-Text.Indirect",
+                "_at": 1,
+                "_dt": 2,
+                "_cf": 0,
+                "_qn": "AMain.FormattedText.Indirect",
+                "_mi": 1,
+                "_po": 1,
+                "_ii": -1,
+                "_sf": 0,
+                "_co": "",
+                "_li": -1
+              }
+            ],
+            "_ev": [],
+            "_ic": -1
+          }
+        }
+      ],
+      "_sr": {
+        "_id": "_reserved_",
+        "_hi": "reserved to define hierarchy directly under the touch screen",
+        "_nu": 0,
+        "_pn": 0,
+        "_ci": [
+          {
+            "_ty": 0,
+            "_tv": {
+              "_id": "A-Main",
+              "_hi": "A-Main",
+              "_nu": 2,
+              "_pn": 0,
+              "_ci": [],
+              "_ins": [],
+              "_or": {},
+              "_ch": {},
+              "_mi1": 0,
+              "_mo1": 0,
+              "_mi2": 0,
+              "_mo2": 0,
+              "_mi3": 3,
+              "_mo3": 3,
+              "_in": {
+                "_ci": 1,
+                "_in": [],
+                "_sr": 1,
+                "_be": [],
+                "_bs": [],
+                "_ne": [],
+                "_ns": [],
+                "_se": [
+                  {
+                    "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+                    "_sm": "[~UNUSED~]",
+                    "_pn": "FormattedText.Indirect",
+                    "_sn": "",
+                    "_gn": "Indirect Text",
+                    "_jo": 0,
+                    "_ai": "",
+                    "_no": "Formatted-Text.Indirect",
+                    "_cf": 0,
+                    "_mi": 1,
+                    "_po": 1,
+                    "_ii": -1,
+                    "_sf": 0,
+                    "_fn": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+                    "_cp": "FormattedText",
+                    "_it": -1
+                  }
+                ],
+                "_ss": [
+                  {
+                    "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                    "_sm": "FormattedText",
+                    "_pn": "FormattedText.Indirect",
+                    "_sn": "FormattedText_Indirect",
+                    "_gn": "Indirect Text",
+                    "_jo": 1,
+                    "_ai": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                    "_no": "Formatted-Text.Indirect",
+                    "_cf": 0,
+                    "_mi": 1,
+                    "_po": 1,
+                    "_ii": -1,
+                    "_sf": 0,
+                    "_fn": "AMain.FormattedText.Indirect",
+                    "_cp": "AMain",
+                    "_it": -1
+                  }
+                ],
+                "_io": true,
+                "_ap": "",
+                "_co": {
+                  "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a",
+                  "_nm": "A-Main",
+                  "_ds": "A-Main",
+                  "_cn": "AMain",
+                  "_et": "Page",
+                  "_cf": 1,
+                  "_ac": "",
+                  "_co": [],
+                  "_st": [
+                    {
+                      "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                      "_nm": "Indirect",
+                      "_fn": "Indirect",
+                      "_gn": "Indirect Text",
+                      "_qm": "Indirect",
+                      "_cn": "Indirect",
+                      "_ln": "Formatted-Text",
+                      "_sn": "FormattedText",
+                      "_nt": "Formatted-Text.Indirect",
+                      "_at": 1,
+                      "_dt": 2,
+                      "_cf": 0,
+                      "_qn": "AMain.FormattedText.Indirect",
+                      "_mi": 1,
+                      "_po": 1,
+                      "_ii": -1,
+                      "_sf": 0,
+                      "_co": "",
+                      "_li": -1
+                    }
+                  ],
+                  "_ev": [],
+                  "_ic": -1
+                }
+              },
+              "_ws": 0,
+              "_ls": 1,
+              "_ii": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a"
+            }
+          }
+        ],
+        "_in": [
+          {
+            "_ci": 1,
+            "_in": [],
+            "_sr": 1,
+            "_be": [],
+            "_bs": [],
+            "_ne": [],
+            "_ns": [],
+            "_se": [
+              {
+                "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+                "_sm": "[~UNUSED~]",
+                "_pn": "FormattedText.Indirect",
+                "_sn": "",
+                "_gn": "Indirect Text",
+                "_jo": 0,
+                "_ai": "",
+                "_no": "Formatted-Text.Indirect",
+                "_cf": 0,
+                "_mi": 1,
+                "_po": 1,
+                "_ii": -1,
+                "_sf": 0,
+                "_fn": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel.Group1Event.Gap0",
+                "_cp": "FormattedText",
+                "_it": -1
+              }
+            ],
+            "_ss": [
+              {
+                "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                "_sm": "FormattedText",
+                "_pn": "FormattedText.Indirect",
+                "_sn": "FormattedText_Indirect",
+                "_gn": "Indirect Text",
+                "_jo": 1,
+                "_ai": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                "_no": "Formatted-Text.Indirect",
+                "_cf": 0,
+                "_mi": 1,
+                "_po": 1,
+                "_ii": -1,
+                "_sf": 0,
+                "_fn": "AMain.FormattedText.Indirect",
+                "_cp": "AMain",
+                "_it": -1
+              }
+            ],
+            "_io": true,
+            "_ap": "",
+            "_co": {
+              "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a",
+              "_nm": "A-Main",
+              "_ds": "A-Main",
+              "_cn": "AMain",
+              "_et": "Page",
+              "_cf": 1,
+              "_ac": "",
+              "_co": [],
+              "_st": [
+                {
+                  "_id": "bc739926-ea4d-4dac-ae1f-593e3dc2bf5a.iwbi.pd-receivestatelabel",
+                  "_nm": "Indirect",
+                  "_fn": "Indirect",
+                  "_gn": "Indirect Text",
+                  "_qm": "Indirect",
+                  "_cn": "Indirect",
+                  "_ln": "Formatted-Text",
+                  "_sn": "FormattedText",
+                  "_nt": "Formatted-Text.Indirect",
+                  "_at": 1,
+                  "_dt": 2,
+                  "_cf": 0,
+                  "_qn": "AMain.FormattedText.Indirect",
+                  "_mi": 1,
+                  "_po": 1,
+                  "_ii": -1,
+                  "_sf": 0,
+                  "_co": "",
+                  "_li": -1
+                }
+              ],
+              "_ev": [],
+              "_ic": -1
+            }
+          }
+        ],
+        "_or": {
+          "Order1": "CHD"
+        },
+        "_ch": {
+          "Child1": 1
+        }
+      }
+    },
+    "_ct": 0,
+    "_io": false,
+    "_sv": "2.16.1"
+  }
+}

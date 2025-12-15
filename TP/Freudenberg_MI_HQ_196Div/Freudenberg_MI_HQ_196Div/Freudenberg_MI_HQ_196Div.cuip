@@ -1,0 +1,58 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.701.5.0"
+Created = 2025-12-15 11:25:57.61111-05:00
+LastModifiedByAppHost = "2.701.5.0"
+Modified = 2025-12-15 16:00:25.506516-05:00
+CreatedByProjectApp = "1.4301.17.0"
+LastModifiedByProjectApp = "1.4301.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[
+  {
+    "ProjectId": "1c922c23-7691-4d66-83f3-02da20846d76",
+    "IsCustom": true,
+    "IsSelected": true,
+    "VisitedName": "Yealink",
+    "id": "Custom-L-4874ba39-36b4-46ac-a126-4c24e95299c5-1919-979",
+    "idName": "Yealink",
+    "resolutionId": "L-1919-979",
+    "resolutionName": "Yealink",
+    "resolutionType": "custom",
+    "deviceSpecId": "Yealink",
+    "width": "1919px",
+    "height": "979px",
+    "widthMedia": "1919px",
+    "heightMedia": "979px",
+    "orientation": 1,
+    "supportedDevices": "",
+    "displayNameSuffix": "",
+    "componentKeys": [
+      "UiEditor"
+    ],
+    "modes": [],
+    "IsMode": false
+  }
+]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "Freudenberg_MI_HQ_196Div"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.16.1"
+Id = "1c922c23-7691-4d66-83f3-02da20846d76"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DeviceResolutionIds = "Custom-L-4874ba39-36b4-46ac-a126-4c24e95299c5-1919-979"
+ipId = "03"
+ProjectSchemaVersion = "6"
+ContractIsStale = "true"
+
