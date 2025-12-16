@@ -1,0 +1,33 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.701.5.0"
+Created = 2025-12-16 14:56:18.443404-05:00
+LastModifiedByAppHost = "2.701.5.0"
+Modified = 2025-12-16 17:03:15.736595-05:00
+CreatedByProjectApp = "1.4301.17.0"
+LastModifiedByProjectApp = "1.4301.17.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "Freudenberg_MI_HQ_196Master"
+ThemeId = "light-theme.css"
+ProjectThemeIds = "light-theme.css"
+ThemePageColor = "#ffffff"
+IncludeUnusedAsset = "False"
+OverrideThemeColor = "False"
+SdkId = "CH5:2.16.1"
+Id = "ab2a2aab-5826-48e9-93ce-64e744b68fdb"
+RuntimeThemeJoin = "0"
+RuntimeLanguageJoin = "0"
+DeviceResolutionIds = "D-L-TSW1070-1280-0800"
+ipId = "03"
+ProjectSchemaVersion = "6"
+ContractIsStale = "true"
+

@@ -5,7 +5,7 @@
     "_created": "2025-12-15T11:25:57.6839306-05:00",
     "_lastModifiedByAppHost": "2.701.5.0",
     "_minimumAppHost": "2.0.0",
-    "_modified": "2025-12-15T11:25:57.6839176-05:00"
+    "_modified": "2025-12-16T14:56:18.4591985-05:00"
   },
   "_solution": {
     "_name": "Freudenberg_MI_HQ_196Div",
@@ -14,6 +14,11 @@
         "_name": "Freudenberg_MI_HQ_196Div",
         "_filename": "Freudenberg_MI_HQ_196Div/Freudenberg_MI_HQ_196Div.cuip",
         "_datetime": "2025-12-15T16:25:57.5285843Z"
+      },
+      {
+        "_name": "Freudenberg_MI_HQ_196Master",
+        "_filename": "Freudenberg_MI_HQ_196Master/Freudenberg_MI_HQ_196Master.cuip",
+        "_datetime": "2025-12-16T19:56:18.42212Z"
       }
     ]
   }
