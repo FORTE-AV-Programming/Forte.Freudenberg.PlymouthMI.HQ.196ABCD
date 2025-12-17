@@ -1,0 +1,845 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2025-12-17 12:12:34.736231-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2025-12-17 12:12:34.736225-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div devicesvisited="[&quot;TSW-1070&quot;]" globalcontrolcontract="on" class="widget-container" id="imqha0dga6" componentname="av - splash">  <ch5-image mode="0" customvstheme="custom" refreshrate="0" allowpositiondatatobesent="false" allowvaluesonmove="false" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="i77l" componentname="ImageObject_81" numberofmodes="1">    <ch5-image-mode componentname="mode 0" id="i7xy" class="ch5-image-child" assetid="29d04623-d805-4c90-b6d3-6c54e70e2414" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-image-mode>  </ch5-image>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="idqh" componentname="FormattedText_562" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 25px; color: rgb(0,0,0);&quot;&gt;&lt;strong&gt;Choose an Activity&lt;BR/&gt;to Begin&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p&gt;&lt;span  style=&quot; font-size: 25px; color: rgb(0,0,0);&quot;&gt;&lt;strong&gt;Choose an Activity&lt;BR/&gt;to Begin&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text>  <ch5-image mode="0" customvstheme="custom" refreshrate="0" allowpositiondatatobesent="false" allowvaluesonmove="false" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="iiu5" componentname="ImageObject_153" numberofmodes="1">    <ch5-image-mode componentname="mode 0" id="ib1p" class="ch5-image-child" assetid="7e4e9e76-4c4c-43b9-a1e4-1e87f0dba819" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-image-mode>  </ch5-image>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="iz4s" componentname="FormattedText_574" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" labelinnerhtml="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span  style=&quot; font-size: 44px; color: rgb(0,0,0);&quot;&gt;&lt;ch5-jointotext-string receiveStateValue=&quot;1&quot; textWhenEmpty=&quot;Room Name&quot;&gt;&lt;/ch5-jointotext-string&gt;&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span  style=&quot; font-size: 44px; color: rgb(0,0,0);&quot;&gt;&lt;cips&gt;1?Room Name&lt;/cips&gt;&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text>  <ch5-button tagname="ch5-button" ccid_componenttype="advancedbutton" ccid_ch5type="button" ccid_syncproperties="disabled" ccid_advancedsyncproperties="disabled" affectedbypreviewstate="True" customvstheme="custom" clearlabel="true" pageflipattributename="pageflip" size="custom" orientation="horizontal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" shape="rectangle" iconposition="first" devicesvisited="[&quot;TSW-1070&quot;]" mode="0" id="ifpp" labelinnerhtml="" ccid_label="" labelmode="advanced" componentname="AdvancedButton_325" pageflip="0" pd-receivestateselected="20" sendeventontouch="20" previewstate="normal">    <ch5-button-mode componentname="Mode 0" modecount="0" id="iepg" class="ch5-button-child" type="default">      <ch5-button-mode-state id="iuiw" componentname="normal" state="normal" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="c0e77001-4a55-4f87-9a2e-9408822fd8fc" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="ida7" componentname="pressed" state="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="df5ab348-5486-4647-853a-a44db7956c4e" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="inag" componentname="selected" state="selected" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="df5ab348-5486-4647-853a-a44db7956c4e" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>    </ch5-button-mode>  </ch5-button>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="i4it" componentname="FormattedText_2_56" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Home&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Home&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text>  <div id="i6bn" devicesvisited="[&quot;TSW-1070&quot;]" componentname="Circular_Gauge_27">Unsupported: Circular Gauge<div>DigitalVisibilityJoin:10</div></div>  <ch5-button tagname="ch5-button" ccid_componenttype="advancedbutton" ccid_ch5type="button" ccid_syncproperties="disabled" ccid_advancedsyncproperties="disabled" affectedbypreviewstate="True" customvstheme="custom" clearlabel="true" pageflipattributename="pageflip" size="custom" orientation="horizontal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" shape="rectangle" iconposition="first" devicesvisited="[&quot;TSW-1070&quot;]" mode="0" id="im91" labelinnerhtml="" ccid_label="" labelmode="advanced" componentname="AdvancedButton_148" pageflip="0" pd-receivestateselected="19" sendeventontouch="19" previewstate="normal">    <ch5-button-mode componentname="Mode 0" modecount="0" id="iidl" class="ch5-button-child" type="default">      <ch5-button-mode-state id="iqla" componentname="normal" state="normal" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="df5ab348-5486-4647-853a-a44db7956c4e" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="iug1" componentname="pressed" state="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="df5ab348-5486-4647-853a-a44db7956c4e" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="ihy8" componentname="selected" state="selected" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="df5ab348-5486-4647-853a-a44db7956c4e" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>    </ch5-button-mode>  </ch5-button>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="i79h" componentname="FormattedText_2_29" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Room Setup&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Room Setup&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text>  <ch5-button tagname="ch5-button" ccid_componenttype="advancedbutton" ccid_ch5type="button" ccid_syncproperties="disabled" ccid_advancedsyncproperties="disabled" affectedbypreviewstate="True" customvstheme="custom" clearlabel="true" pageflipattributename="pageflip" size="custom" orientation="horizontal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" shape="rectangle" iconposition="first" devicesvisited="[&quot;TSW-1070&quot;]" mode="0" id="ix2o" labelinnerhtml="" ccid_label="" labelmode="advanced" componentname="AdvancedButton_5010" pageflip="0" pd-receivestateselected="7" sendeventontouch="7" previewstate="normal">    <ch5-button-mode componentname="Mode 0" modecount="0" id="idk5" class="ch5-button-child" type="default">      <ch5-button-mode-state id="iinv" componentname="normal" state="normal" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="32a22743-a539-4b9a-9e23-6cbcd28f7bde" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="iwbl" componentname="pressed" state="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="32a22743-a539-4b9a-9e23-6cbcd28f7bde" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="iojh" componentname="selected" state="selected" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="32a22743-a539-4b9a-9e23-6cbcd28f7bde" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>    </ch5-button-mode>  </ch5-button>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="ifn1" componentname="FormattedText_2_1011" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Video Call&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Video Call&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text>  <ch5-button tagname="ch5-button" ccid_componenttype="advancedbutton" ccid_ch5type="button" ccid_syncproperties="disabled" ccid_advancedsyncproperties="disabled" affectedbypreviewstate="True" customvstheme="custom" clearlabel="true" pageflipattributename="pageflip" size="custom" orientation="horizontal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" shape="rectangle" iconposition="first" devicesvisited="[&quot;TSW-1070&quot;]" mode="0" id="ia2j" labelinnerhtml="" ccid_label="" labelmode="advanced" componentname="AdvancedButton_6712" pageflip="0" pd-receivestateselected="8" sendeventontouch="8" previewstate="normal">    <ch5-button-mode componentname="Mode 0" modecount="0" id="iihk" class="ch5-button-child" type="default">      <ch5-button-mode-state id="izzg" componentname="normal" state="normal" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="ddad5e6d-d446-417e-b1b2-0c39d9f449a6" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="iwbw" componentname="pressed" state="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="ddad5e6d-d446-417e-b1b2-0c39d9f449a6" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>      <ch5-button-mode-state id="icrk" componentname="selected" state="selected" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="top" iconurlfilltype="initial" assetid="ddad5e6d-d446-417e-b1b2-0c39d9f449a6" valignlabel="middle" labelinnerhtml="" ccid_label="" halignlabel="center"></ch5-button-mode-state>    </ch5-button-mode>  </ch5-button>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="iwnr" componentname="FormattedText_2_1113" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" labelinnerhtml="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Presentation&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p&gt;&lt;span  style=&quot; font-size: 18px; color: rgb(0,0,0);&quot;&gt;Presentation&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text></div>
+
+
+
+{Css}
+@media (max-width: 99999px) { #imqha0dga6 { left: 0; top: 0; position: absolute; display: block; width: 1278px; height: 799px; background-color: rgb(255,255,255) } .widget-container { background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px } #i77l { display: block; position: absolute; overflow: hidden; --ch5-image--object-fit: fill; Appearance_object-fit: fill; --ch5-image--border-color: transparent; Appearance_border-color: transparent; --ch5-image--border-width: 0px; Appearance_border-width: 0px; --ch5-image--border-style: none; Appearance_border-style: none; font-family: Roboto; top: 0px; left: 0px; width: 1126px; --ch5-image--width: 1126px; --ch5-image--height: 1126px; height: 799px } #i77l .ch5-image-child { display: block; position: absolute; z-index: 0; width: inherit; height: inherit; left: 0; top: 0; overflow: hidden; border-radius: 50%; border-width: inherit; border-style: inherit } #idqh { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 51px; left: 1129px; width: 149px; --ch5-text--width: 149px; height: 123px; --ch5-text--height: 123px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 24px; Label_font-size: 24px } #iiu5 { display: block; position: absolute; overflow: hidden; --ch5-image--object-fit: contain; Appearance_object-fit: contain; --ch5-image--border-color: transparent; Appearance_border-color: transparent; --ch5-image--border-width: 0px; Appearance_border-width: 0px; --ch5-image--border-style: none; Appearance_border-style: none; font-family: Roboto; top: 281px; left: 235px; width: 600px; --ch5-image--width: 600px; --ch5-image--height: 600px; height: 162px } #iiu5 .ch5-image-child { display: block; position: absolute; z-index: 0; width: inherit; height: inherit; left: 0; top: 0; overflow: hidden; border-radius: 50%; border-width: inherit; border-style: inherit } #iz4s { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 458px; left: 175px; width: 722px; --ch5-text--width: 722px; height: 75px; --ch5-text--height: 75px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--font-size: 42px; Label_font-size: 42px } #ifpp { position: absolute; display: block; top: 183px; left: 1156px; width: 99px; --ch5-button--regular-width: 99px; height: 99px; --ch5-button--regular-height: 99px } #ifpp .ch5-button-child { position: absolute; top: 0; left: 0; height: inherit; width: inherit } #ifpp[mode="0"] { --ch5-button--regular-image-width: 80%; Image_width: 80%; --ch5-button--regular-image-height: 80%; Image_height: 80%; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-background-color: rgba(255, 255, 255, 0); Appearance_background-color: rgba(255, 255, 255, 0); --ch5-button--label-margin-top: 0px; Label_margin-top: 0px; --ch5-button--label-margin-left: 0px; Label_margin-left: 0px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; custom-normal-label-font-size: 15px; --ch5-button--regular-font-size: 15px; Label_font-size: 15px; --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px; --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #ifpp .ch5-button--span * { margin: 0px } #ifpp[mode="0"][pressed="true"] { --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px } #ifpp[mode="0"][selected="true"] { --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #i4it { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 267px; left: 1132px; width: 141px; --ch5-text--width: 141px; height: 37px; --ch5-text--height: 37px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 24px; Label_font-size: 24px } #i6bn { background-color: #FFB6C1; overflow: auto; overflow-wrap: break-word; position: absolute; display: block; font-family: Roboto; font-size: 0.8em; top: 582px; left: 441px; width: 189px !important; height: 189px } #im91 { position: absolute; display: block; top: 318px; left: 1156px; width: 99px; --ch5-button--regular-width: 99px; height: 99px; --ch5-button--regular-height: 99px } #im91 .ch5-button-child { position: absolute; top: 0; left: 0; height: inherit; width: inherit } #im91[mode="0"] { --ch5-button--regular-image-width: 80%; Image_width: 80%; --ch5-button--regular-image-height: 80%; Image_height: 80%; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-background-color: rgba(255, 255, 255, 0); Appearance_background-color: rgba(255, 255, 255, 0); --ch5-button--label-margin-top: 0px; Label_margin-top: 0px; --ch5-button--label-margin-left: 0px; Label_margin-left: 0px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; custom-normal-label-font-size: 15px; --ch5-button--regular-font-size: 15px; Label_font-size: 15px; --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px; --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #im91 .ch5-button--span * { margin: 0px } #im91[mode="0"][pressed="true"] { --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px } #im91[mode="0"][selected="true"] { --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #i79h { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 402px; left: 1132px; width: 141px; --ch5-text--width: 141px; height: 37px; --ch5-text--height: 37px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 24px; Label_font-size: 24px } #ix2o { position: absolute; display: block; top: 456px; left: 1156px; width: 99px; --ch5-button--regular-width: 99px; height: 99px; --ch5-button--regular-height: 99px } #ix2o .ch5-button-child { position: absolute; top: 0; left: 0; height: inherit; width: inherit } #ix2o[mode="0"] { --ch5-button--regular-image-width: 80%; Image_width: 80%; --ch5-button--regular-image-height: 80%; Image_height: 80%; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-background-color: rgba(255, 255, 255, 0); Appearance_background-color: rgba(255, 255, 255, 0); --ch5-button--label-margin-top: 0px; Label_margin-top: 0px; --ch5-button--label-margin-left: 0px; Label_margin-left: 0px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; custom-normal-label-font-size: 15px; --ch5-button--regular-font-size: 15px; Label_font-size: 15px; --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px; --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #ix2o .ch5-button--span * { margin: 0px } #ix2o[mode="0"][pressed="true"] { --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px } #ix2o[mode="0"][selected="true"] { --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #ifn1 { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 540px; left: 1132px; width: 141px; --ch5-text--width: 141px; height: 37px; --ch5-text--height: 37px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 24px; Label_font-size: 24px } #ia2j { position: absolute; display: block; top: 596px; left: 1156px; width: 99px; --ch5-button--regular-width: 99px; height: 99px; --ch5-button--regular-height: 99px } #ia2j .ch5-button-child { position: absolute; top: 0; left: 0; height: inherit; width: inherit } #ia2j[mode="0"] { --ch5-button--regular-image-width: 80%; Image_width: 80%; --ch5-button--regular-image-height: 80%; Image_height: 80%; --ch5-button--default-border-width: 0px; Appearance_border-width: 0px; --ch5-button--default-background-color: rgba(255, 255, 255, 0); Appearance_background-color: rgba(255, 255, 255, 0); --ch5-button--label-margin-top: 0px; Label_margin-top: 0px; --ch5-button--label-margin-left: 0px; Label_margin-left: 0px; --ch5-button--default-border-style: none; Appearance_border-style: none; --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; custom-normal-label-font-size: 15px; --ch5-button--regular-font-size: 15px; Label_font-size: 15px; --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px; --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #ia2j .ch5-button--span * { margin: 0px } #ia2j[mode="0"][pressed="true"] { --ch5-button--regular-pressed-image-width: 80%; pressedImage_width: 80%; --ch5-button--regular-pressed-image-height: 80%; pressedImage_height: 80%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(255, 255, 255, 0.5); pressedAppearance_background-color: rgba(255, 255, 255, 0.5); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px } #ia2j[mode="0"][selected="true"] { --ch5-button--regular-selected-image-width: 80%; selectedImage_width: 80%; --ch5-button--regular-selected-image-height: 80%; selectedImage_height: 80%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(0, 0, 0, 0.3); selectedAppearance_background-color: rgba(0, 0, 0, 0.3); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #iwnr { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 680px; left: 1132px; width: 141px; --ch5-text--width: 141px; height: 37px; --ch5-text--height: 37px; --ch5-text--font-color: #ffffff; Label_color: #ffffff; --ch5-text--font-size: 24px; Label_font-size: 24px } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "av - splash"
+PageMode = "absolute"
+Id = "2ced7abf-9c61-4b17-b1bd-9063b441fc4f"
+DisplayBackgroundColor = "True"
+BackgroundColor = "rgb(255,255,255)"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Image Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-image-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+id = "i7xy"
+class = "ch5-image-child"
+assetid = "29d04623-d805-4c90-b6d3-6c54e70e2414"
+url = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/a0c30a33-7896-4b65-ad8d-ba4c9be6c5d4/g3piijxg.png"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+
+[Elements.Components.Attributes]
+mode = "0"
+customvstheme = "custom"
+refreshrate = "0"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "i77l"
+componentName = "ImageObject_81"
+numberofmodes = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "idqh"
+componentName = "FormattedText_562"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 25px; color: rgb(0,0,0);\"><strong>Choose an Activity<BR/>to Begin</strong></span></p>"
+ccid_Label = "<p><span  style=\" font-size: 25px; color: rgb(0,0,0);\"><strong>Choose an Activity<BR/>to Begin</strong></span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Image Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-image-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+id = "ib1p"
+class = "ch5-image-child"
+assetid = "7e4e9e76-4c4c-43b9-a1e4-1e87f0dba819"
+url = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/f21f2224-5547-45f7-b999-b5d52a165e46/qakxeaqj.png"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+
+[Elements.Components.Attributes]
+mode = "0"
+customvstheme = "custom"
+refreshrate = "0"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "iiu5"
+componentName = "ImageObject_153"
+numberofmodes = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "iz4s"
+componentName = "FormattedText_574"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+labelinnerhtml = "<p style=\"text-align: center;\"><span  style=\" font-size: 44px; color: rgb(0,0,0);\"><ch5-jointotext-string receiveStateValue=\"1\" textWhenEmpty=\"Room Name\"></ch5-jointotext-string></span></p>"
+ccid_Label = "<p style=\"text-align: center;\"><span  style=\" font-size: 44px; color: rgb(0,0,0);\"><cips>1?Room Name</cips></span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iuiw"
+componentName = "normal"
+state = "normal"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "c0e77001-4a55-4f87-9a2e-9408822fd8fc"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/9e5a8f77-b621-49c2-8f63-9e77c3c51042/xi0lnvsh.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "ida7"
+componentName = "pressed"
+state = "pressed"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "df5ab348-5486-4647-853a-a44db7956c4e"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/75854616-d6fb-4dd6-9950-8b01e00608e0/z5vosqsn.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "inag"
+componentName = "selected"
+state = "selected"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "df5ab348-5486-4647-853a-a44db7956c4e"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/75854616-d6fb-4dd6-9950-8b01e00608e0/z5vosqsn.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "Mode 0"
+modecount = "0"
+id = "iepg"
+class = "ch5-button-child"
+type = "default"
+
+[Elements.Components.Attributes]
+tagName = "ch5-button"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+ccid_syncproperties = "disabled"
+ccid_advancedsyncproperties = "disabled"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+clearLabel = "true"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+shape = "rectangle"
+iconposition = "first"
+devicesVisited = "[\"TSW-1070\"]"
+mode = "0"
+id = "ifpp"
+labelinnerhtml = ""
+ccid_Label = ""
+labelmode = "advanced"
+componentName = "AdvancedButton_325"
+pageflip = "0"
+pd-receivestateselected = "20"
+sendeventontouch = "20"
+previewstate = "normal"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "i4it"
+componentName = "FormattedText_2_56"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Home</span></p>"
+ccid_Label = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Home</span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+[[Elements.Components]]
+Name = ""
+Type = "html-text"
+Status = ""
+Content = ""
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "Unsupported: Circular Gauge"
+[[Elements.Components.Components]]
+Name = ""
+Type = "text"
+Status = ""
+Content = ""
+_InnerText = true
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "DigitalVisibilityJoin:10"
+
+[Elements.Components.Attributes]
+id = "i6bn"
+devicesVisited = "[\"TSW-1070\"]"
+componentName = "Circular_Gauge_27"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iqla"
+componentName = "normal"
+state = "normal"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "df5ab348-5486-4647-853a-a44db7956c4e"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/75854616-d6fb-4dd6-9950-8b01e00608e0/z5vosqsn.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iug1"
+componentName = "pressed"
+state = "pressed"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "df5ab348-5486-4647-853a-a44db7956c4e"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/75854616-d6fb-4dd6-9950-8b01e00608e0/z5vosqsn.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "ihy8"
+componentName = "selected"
+state = "selected"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "df5ab348-5486-4647-853a-a44db7956c4e"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/75854616-d6fb-4dd6-9950-8b01e00608e0/z5vosqsn.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "Mode 0"
+modecount = "0"
+id = "iidl"
+class = "ch5-button-child"
+type = "default"
+
+[Elements.Components.Attributes]
+tagName = "ch5-button"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+ccid_syncproperties = "disabled"
+ccid_advancedsyncproperties = "disabled"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+clearLabel = "true"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+shape = "rectangle"
+iconposition = "first"
+devicesVisited = "[\"TSW-1070\"]"
+mode = "0"
+id = "im91"
+labelinnerhtml = ""
+ccid_Label = ""
+labelmode = "advanced"
+componentName = "AdvancedButton_148"
+pageflip = "0"
+pd-receivestateselected = "19"
+sendeventontouch = "19"
+previewstate = "normal"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "i79h"
+componentName = "FormattedText_2_29"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Room Setup</span></p>"
+ccid_Label = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Room Setup</span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iinv"
+componentName = "normal"
+state = "normal"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "32a22743-a539-4b9a-9e23-6cbcd28f7bde"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/006b5071-195a-45d0-9c72-2c8ba505e953/wsfxt2ca.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iwbl"
+componentName = "pressed"
+state = "pressed"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "32a22743-a539-4b9a-9e23-6cbcd28f7bde"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/006b5071-195a-45d0-9c72-2c8ba505e953/wsfxt2ca.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iojh"
+componentName = "selected"
+state = "selected"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "32a22743-a539-4b9a-9e23-6cbcd28f7bde"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/006b5071-195a-45d0-9c72-2c8ba505e953/wsfxt2ca.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "Mode 0"
+modecount = "0"
+id = "idk5"
+class = "ch5-button-child"
+type = "default"
+
+[Elements.Components.Attributes]
+tagName = "ch5-button"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+ccid_syncproperties = "disabled"
+ccid_advancedsyncproperties = "disabled"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+clearLabel = "true"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+shape = "rectangle"
+iconposition = "first"
+devicesVisited = "[\"TSW-1070\"]"
+mode = "0"
+id = "ix2o"
+labelinnerhtml = ""
+ccid_Label = ""
+labelmode = "advanced"
+componentName = "AdvancedButton_5010"
+pageflip = "0"
+pd-receivestateselected = "7"
+sendeventontouch = "7"
+previewstate = "normal"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "ifn1"
+componentName = "FormattedText_2_1011"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Video Call</span></p>"
+ccid_Label = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Video Call</span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "izzg"
+componentName = "normal"
+state = "normal"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "ddad5e6d-d446-417e-b1b2-0c39d9f449a6"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/f375d455-29d3-4aba-9bb9-26b9d5b5537b/sgoxdhdk.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "iwbw"
+componentName = "pressed"
+state = "pressed"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "ddad5e6d-d446-417e-b1b2-0c39d9f449a6"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/f375d455-29d3-4aba-9bb9-26b9d5b5537b/sgoxdhdk.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "icrk"
+componentName = "selected"
+state = "selected"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "top"
+iconurlfilltype = "initial"
+assetid = "ddad5e6d-d446-417e-b1b2-0c39d9f449a6"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/f375d455-29d3-4aba-9bb9-26b9d5b5537b/sgoxdhdk.png"
+valignlabel = "middle"
+labelinnerhtml = ""
+ccid_Label = ""
+halignlabel = "center"
+
+[Elements.Components.Components.Attributes]
+componentName = "Mode 0"
+modecount = "0"
+id = "iihk"
+class = "ch5-button-child"
+type = "default"
+
+[Elements.Components.Attributes]
+tagName = "ch5-button"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+ccid_syncproperties = "disabled"
+ccid_advancedsyncproperties = "disabled"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+clearLabel = "true"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+shape = "rectangle"
+iconposition = "first"
+devicesVisited = "[\"TSW-1070\"]"
+mode = "0"
+id = "ia2j"
+labelinnerhtml = ""
+ccid_Label = ""
+labelmode = "advanced"
+componentName = "AdvancedButton_6712"
+pageflip = "0"
+pd-receivestateselected = "8"
+sendeventontouch = "8"
+previewstate = "normal"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "iwnr"
+componentName = "FormattedText_2_1113"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "false"
+truncatetext = "false"
+labelinnerhtml = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Presentation</span></p>"
+ccid_Label = "<p><span  style=\" font-size: 18px; color: rgb(0,0,0);\">Presentation</span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+globalControlContract = "on"
+class = "widget-container"
+id = "imqha0dga6"
+componentName = "av - splash"
+

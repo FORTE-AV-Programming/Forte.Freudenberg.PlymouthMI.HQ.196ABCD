@@ -1,0 +1,183 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2025-12-17 12:12:34.838601-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2025-12-17 12:12:34.838596-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="i30e" templateid="w52e9b7de-cb4c-4307-a3cb-a1ffc9a94a90" componentname="av - header_1" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="iqnc" templateid="w01bbe6f7-747f-467f-b2e5-ba2c64d81413" componentname="av - footer_2" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="ih69" templateid="w1893d931-1983-4943-9a3e-23ac493f259c" componentname="av - splash_3" pd-receivestateshow="18" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="ig3a" templateid="w11a5963d-f110-4007-9452-cd92b408ff42" componentname="av - room setup_4" pd-receivestateshow="19" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="ig1v" templateid="w5defe8a8-93c3-474e-863c-8ab44a3af405" componentname="vtc - home_5" pd-receivestateshow="20" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="iipa" templateid="w54d4cd85-def8-4b85-9260-c67ad8363ca3" componentname="vtc - keypad_6" pd-receivestateshow="21" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="i7yz" templateid="wb9d30b3f-3caa-4eac-aaca-c408aae3e582" componentname="vtc - content_7" pd-receivestateshow="22" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="idd2" templateid="w30cd0af6-fb7c-4328-ad9a-487c168e7071" componentname="vtc - cameras_8" pd-receivestateshow="23" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="i36f" templateid="w3c030faf-9946-4c14-81e6-20534347fd7c" componentname="av - audio_9" pd-receivestateshow="26" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template><ch5-template devicesvisited="[&quot;TSW-1070&quot;]" id="ijhy" templateid="wacb63485-ca53-4090-99c8-3c261a80b42c" componentname="vtc - keyboard_10" pd-receivestateshow="32" booleanjoinoffset="0" numericjoinoffset="0" stringjoinoffset="0"></ch5-template>
+
+
+
+{Css}
+@media (max-width: 99999px) { #i30e { display: block; position: absolute; top: 0px; left: 0px } #iqnc { display: block; position: absolute; top: 708px; left: 0px } #ih69 { display: block; position: absolute; top: 0px; left: 0px } #ig3a { display: block; position: absolute; top: 89px; left: 0px } #ig1v { display: block; position: absolute; top: 91px; left: 0px } #iipa { display: block; position: absolute; top: 91px; left: 0px } #i7yz { display: block; position: absolute; top: 91px; left: 0px } #idd2 { display: block; position: absolute; top: 91px; left: 0px } #i36f { display: block; position: absolute; top: 91px; left: 0px } #ijhy { display: block; position: absolute; top: 0px; left: 0px } }
+
+
+
+{PageAttributes}
+
+[Attributes]
+Name = "av - main"
+PageMode = "absolute"
+Id = "855c6f29-a525-41ff-82b3-e21cad1d59c4"
+StartPage = "True"
+PreloadPage = "True"
+CachePage = "False"
+VisibilityJoin = "11"
+DisplayBackgroundColor = "True"
+BackgroundColor = "rgb(255,255,255)"
+
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "i30e"
+templateid = "w1fc84fe0-e0a8-447b-86a1-a3ebf0223666"
+componentName = "av - header_1"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "iqnc"
+templateid = "wc795cfa4-27bc-493e-9549-c2ab9edcb5ee"
+componentName = "av - footer_2"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ih69"
+templateid = "w2ced7abf-9c61-4b17-b1bd-9063b441fc4f"
+componentName = "av - splash_3"
+pd-receivestateshow = "18"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ig3a"
+templateid = "wbea8eef2-4a6f-40e9-8c36-55bb4d98e660"
+componentName = "av - room setup_4"
+pd-receivestateshow = "19"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ig1v"
+templateid = "wc6d4cf26-c879-43ad-b358-be3578d559f5"
+componentName = "vtc - home_5"
+pd-receivestateshow = "20"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "iipa"
+templateid = "w1d0b844b-2526-419d-b422-7568f13973ce"
+componentName = "vtc - keypad_6"
+pd-receivestateshow = "21"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "i7yz"
+templateid = "w0483f82e-d308-431c-8c60-a489df9bf2ea"
+componentName = "vtc - content_7"
+pd-receivestateshow = "22"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "idd2"
+templateid = "we006fbbc-f7f5-4663-99a5-b8bdcc960f5e"
+componentName = "vtc - cameras_8"
+pd-receivestateshow = "23"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "i36f"
+templateid = "w709d2362-0a35-492f-970c-8e21814ee923"
+componentName = "av - audio_9"
+pd-receivestateshow = "26"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+[[Elements]]
+Name = ""
+Type = "Ch5 Template"
+Status = ""
+Content = ""
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+id = "ijhy"
+templateid = "w3da441c4-db0b-4987-b00f-18ef22fad3ea"
+componentName = "vtc - keyboard_10"
+pd-receivestateshow = "32"
+booleanjoinoffset = "0"
+numericjoinoffset = "0"
+stringjoinoffset = "0"
+

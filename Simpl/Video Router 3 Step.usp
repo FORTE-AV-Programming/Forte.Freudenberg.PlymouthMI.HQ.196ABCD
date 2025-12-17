@@ -1,0 +1,245 @@
+/*******************************************************************************************
+  SIMPL+ Module Information
+  (Fill in comments below)
+*******************************************************************************************/
+/*
+Dealer Name:
+System Name:
+System Number:
+Programmer:  Caleb Vredenburg
+Comments:
+*/
+
+/*******************************************************************************************
+  Compiler Directives
+  (Uncomment and declare compiler directives as needed)
+*******************************************************************************************/
+// #ENABLE_DYNAMIC
+// #SYMBOL_NAME ""
+// #HINT ""
+#DEFINE_CONSTANT NumSources 25
+#DEFINE_CONSTANT NumDestinations 25
+#DEFINE_CONSTANT NumGroups 5
+#CATEGORY "46" "CTV"
+// #PRINT_TO_TRACE
+// #DIGITAL_EXPAND 
+// #ANALOG_SERIAL_EXPAND 
+// #OUTPUT_SHIFT 
+// #HELP_PDF_FILE ""
+#DEFAULT_VOLATILE
+#ENABLE_STACK_CHECKING
+#ENABLE_TRACE
+/*
+#HELP_BEGIN
+   (add additional lines of help lines)
+#HELP_END
+*/
+/*******************************************************************************************
+  DIGITAL, ANALOG and SERIAL INPUTS and OUTPUTS
+*******************************************************************************************/
+DIGITAL_INPUT Go,_SKIP_,Source_Select_None,Source_Select[NumSources],_SKIP_,Display_Select[NumDestinations],_SKIP_,Group_Select[NumGroups,5];
+ANALOG_INPUT  _SKIP_,FB_From_NVXorDM[NumDestinations,25],_SKIP_;
+DIGITAL_OUTPUT Route_Successful_fb,_SKIP_,Source_Select_None_fb,Source_Select_fb[NumSources],_SKIP_,Display_Select_fb[NumDestinations,25];
+ANALOG_OUTPUT  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,Route[NumDestinations,25];
+/*******************************************************************************************
+  Parameters
+*******************************************************************************************/
+INTEGER_PARAMETER _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  _SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,_SKIP_,
+				  Destination_Group[NumDestinations,25];
+/*******************************************************************************************
+  Parameter Properties
+*******************************************************************************************/
+#BEGIN_PARAMETER_PROPERTIES Destination_Group   
+	propValidUnits =  unitDecimal;
+    propDefaultUnit =  unitDecimal;
+   	propDefaultValue = 0d;
+    propList =  { 0d , "No Group" },{ 1d , "Group 1" } , { 2d , "Group 2" } , { 3d , "Group 3" },{ 4d , "Group 4" },{ 5d , "Group 5" } ;
+#END_PARAMETER_PROPERTIES
+
+/*******************************************************************************************
+  Global Variables
+*******************************************************************************************/
+INTEGER SelectedInput;
+INTEGER TempValue[NumDestinations];
+INTEGER GroupList[NumDestinations];
+/*******************************************************************************************
+  Functions
+*******************************************************************************************/
+Function EvaluateForFB()
+{
+    integer x;
+	
+	for (x = 1 to NumDestinations)
+	{
+    	if	(FB_From_NVXorDM[x] = SelectedInput)
+		{
+        	Display_Select_fb[x] = 1;
+		}
+		else
+		{
+        	Display_Select_fb[x] = 0;
+		}
+		
+	}
+}
+/*******************************************************************************************
+  Event Handlers
+*******************************************************************************************/
+PUSH Source_Select_None
+{
+    integer x;
+         
+	for (x = 1 to NumSources)
+	{
+    	Source_Select_fb[x] = 0;
+		TempValue[x] = FB_From_NVXorDM[x];
+		print("%d", TempValue[x]);
+	}
+
+	SelectedInput = 0;
+	Source_Select_None_fb = 1;
+
+	EvaluateForFB ();
+}
+
+PUSH Source_Select
+{
+	integer index;
+	integer x;
+
+	index = getlastmodifiedarrayindex();
+	print("%d", index);
+	for (x = 1 to NumSources)
+	{
+    	Source_Select_fb[x] = 0;
+		TempValue[x] = FB_From_NVXorDM[x];
+		print("%d", TempValue[x]);
+	}
+
+	SelectedInput = index;
+	Source_Select_None_fb = 0;
+	Source_Select_fb[index] = 1;
+
+	EvaluateForFB();
+}
+    
+PUSH Display_Select
+{	
+	integer index;
+    
+	index = getlastmodifiedarrayindex();
+
+	if (Display_Select_fb[index] = 0)	
+    {
+		TempValue[index] = SelectedInput;
+		print("%d", TempValue[index]);
+		Display_Select_fb[index]  = 1;
+	}
+    else
+	{
+		Display_Select_fb[index] = 0;
+		TempValue[index] = FB_From_NVXorDM[index];		
+	}
+
+}
+
+PUSH Group_Select
+{
+	integer index;
+    integer x;
+
+	index = getlastmodifiedarrayindex();
+
+	for (x=1 to NumDestinations)
+	{
+		if(GroupList[x] = index)
+		{
+        	TempValue[x] = SelectedInput;
+			Display_Select_fb[x] = 1;
+		}
+	}
+
+	
+}
+
+PUSH Go
+{
+	integer x;
+
+	for (x=1 to NumDestinations)
+	{
+		if(Route[x] != TempValue[x])
+    	{
+			Route[x] = TempValue[x];
+		}
+	}
+	Route_Successful_fb = 1;
+	Print("Go for Loop Completed");
+	wait (200)
+	{
+	EvaluateForFB();
+	Route_Successful_fb = 0;
+	}
+}  
+
+CHANGE FB_From_NVXorDM
+{
+	integer index;
+	index = getlastmodifiedarrayindex();
+	
+	TempValue[index] = FB_From_NVXorDM[index];
+	Route[index] = FB_From_NVXorDM[index];
+
+	wait (200)
+	EvaluateForFB();
+}
+/*******************************************************************************************
+  Main()
+  Uncomment and place one-time startup code here
+  (This code will get called when the system starts up)
+*******************************************************************************************/
+Function Main()
+{
+	integer x;
+	
+	for (x=1 to NumDestinations)
+	{
+    	Switch(Destination_Group[x])
+		{
+        	Case (1):
+			{
+            	GroupList[x] = 1;
+			}
+        	Case (2):
+			{
+            	GroupList[x] = 2;
+			}
+        	Case (3):
+			{
+            	GroupList[x] = 3;
+			}
+        	Case (4):
+			{
+            	GroupList[x] = 4;
+			}
+        	Case (5):
+			{
+            	GroupList[x] = 5;
+			}
+		}
+	}
+    // WaitForInitializationComplete();
+    // If you are reading any Input or Output variables, uncomment
+    //   the WaitForInitializationComplete statement above and read
+    //   them afterwards.  Input/Output variables will not have
+    //   their correct values set until after the logic processor
+    //   runs and propagates the values to them.
+}

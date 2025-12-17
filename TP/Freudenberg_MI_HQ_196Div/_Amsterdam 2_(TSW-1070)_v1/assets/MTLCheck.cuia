@@ -1,0 +1,22 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2025-12-17 12:12:34.982252-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2025-12-17 12:12:34.982247-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = ""
+MinimumAppHost = "2.0.0"
+
+{AssetAttributes}
+
+[Attributes]
+Id = "f12e54ea-7067-415c-a289-d40f3299e3be"
+Name = "MTLCheck"
+SourceUri = "MTLCheck.png"
+AspectRatio = "1"
+AssetSourceType = "File"
+Username = ""
+Password = ""
+

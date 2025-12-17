@@ -1,0 +1,284 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2025-12-17 12:12:34.784732-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2025-12-17 12:12:34.784727-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
+MinimumProjectApp = "1.2600.1"
+MinimumAppHost = "2.0.0"
+
+{Html}
+<div devicesvisited="[&quot;TSW-1070&quot;]" globalcontrolcontract="on" class="widget-container" id="irhf5p8yb2" componentname="av - header">  <ch5-image mode="0" customvstheme="custom" refreshrate="0" allowpositiondatatobesent="false" allowvaluesonmove="false" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="izut" componentname="ImageObject_61" numberofmodes="1">    <ch5-image-mode componentname="mode 0" id="i870" class="ch5-image-child" assetid="29d04623-d805-4c90-b6d3-6c54e70e2414" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-image-mode>  </ch5-image>  <ch5-button tagname="ch5-button" ccid_componenttype="advancedbutton" ccid_ch5type="button" ccid_syncproperties="disabled" ccid_advancedsyncproperties="disabled" affectedbypreviewstate="True" customvstheme="custom" clearlabel="true" pageflipattributename="pageflip" size="custom" orientation="horizontal" type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" ccid_imageicontype="imageasset" ccid_linksendreceive="True" iconurlfilltype="initial" shape="rounded-rectangle" iconposition="first" devicesvisited="[&quot;TSW-1070&quot;]" mode="0" id="ilkz" labelinnerhtml="" ccid_label="" labelmode="advanced" componentname="AdvancedButton_192" pageflip="0" pd-receivestateselected="13" sendeventontouch="13" previewstate="normal">    <ch5-button-mode componentname="Mode 0" modecount="0" id="i9ga" class="ch5-button-child" type="default">      <ch5-button-mode-state id="ifly" componentname="normal" state="normal" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="bad051ae-23f8-45fe-bb51-a995d1e58494" valignlabel="middle" labelinnerhtml="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" halignlabel="right"></ch5-button-mode-state>      <ch5-button-mode-state id="idwm" componentname="pressed" state="pressed" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="bad051ae-23f8-45fe-bb51-a995d1e58494" valignlabel="middle" labelinnerhtml="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" halignlabel="right"></ch5-button-mode-state>      <ch5-button-mode-state id="ifqn" componentname="selected" state="selected" class="ch5-button-child" ccid_imageicontype="imageasset" type="default" devicesvisited="[&quot;TSW-1070&quot;]" ccid_themecssset="true" iconposition="first" iconurlfilltype="initial" assetid="bad051ae-23f8-45fe-bb51-a995d1e58494" valignlabel="middle" labelinnerhtml="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p style=&quot;text-align: right;&quot;&gt;&lt;span  style=&quot; font-size: 16px; color: rgb(0,0,0);&quot;&gt;System&lt;BR/&gt;Off&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" halignlabel="right"></ch5-button-mode-state>    </ch5-button-mode>  </ch5-button>  <ch5-image mode="0" customvstheme="custom" refreshrate="0" allowpositiondatatobesent="false" allowvaluesonmove="false" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="iecl" componentname="ImageObject_123" numberofmodes="1">    <ch5-image-mode componentname="mode 0" id="itn1" class="ch5-image-child" assetid="7e4e9e76-4c4c-43b9-a1e4-1e87f0dba819" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]"></ch5-image-mode>  </ch5-image>  <ch5-text clearlabel="false" ccid_themecssset="true" ccid_linksendreceive="True" devicesvisited="[&quot;TSW-1070&quot;]" id="izh9" componentname="FormattedText_424" horizontalalignment="center" verticalalignment="middle" multilinesupport="true" truncatetext="false" labelinnerhtml="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span  style=&quot; font-size: 37px; color: rgb(0,0,0);&quot;&gt;&lt;ch5-jointotext-string receiveStateValue=&quot;1&quot; textWhenEmpty=&quot;Room Name&quot;&gt;&lt;/ch5-jointotext-string&gt;&lt;/span&gt;&lt;/p&gt;" ccid_label="&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span  style=&quot; font-size: 37px; color: rgb(0,0,0);&quot;&gt;&lt;cips&gt;1?Room Name&lt;/cips&gt;&lt;/span&gt;&lt;/p&gt;" ccid_activefont="Roboto" labelmodeadvncomponent="advanced"></ch5-text></div>
+
+
+
+{Css}
+@media (max-width: 99999px) { #irhf5p8yb2 { left: 0; top: 0; position: absolute; display: block; width: 1278px; height: 91px } .widget-container { background-size: 20px 20px; background-position: 0 0, 0 10px, 10px -10px, -10px 0px } #izut { display: block; position: absolute; overflow: hidden; --ch5-image--object-fit: fill; Appearance_object-fit: fill; --ch5-image--border-color: transparent; Appearance_border-color: transparent; --ch5-image--border-width: 0px; Appearance_border-width: 0px; --ch5-image--border-style: none; Appearance_border-style: none; font-family: Roboto; top: 0px; left: 0px; width: 1278px; --ch5-image--width: 1278px; --ch5-image--height: 1278px; height: 91px } #izut .ch5-image-child { display: block; position: absolute; z-index: 0; width: inherit; height: inherit; left: 0; top: 0; overflow: hidden; border-radius: 50%; border-width: inherit; border-style: inherit } #ilkz { position: absolute; display: block; top: 15px; left: 1136px; width: 131px; --ch5-button--regular-width: 131px; height: 63px; --ch5-button--regular-height: 63px } #ilkz .ch5-button-child { position: absolute; top: 0; left: 0; height: inherit; width: inherit } #ilkz[mode="0"] { --ch5-button--regular-image-width: 60%; Image_width: 60%; --ch5-button--regular-image-height: 60%; Image_height: 60%; --ch5-button--default-border-width: 2px; Appearance_border-width: 2px; --ch5-button--default-background-color: rgba(0, 0, 0, 0); Appearance_background-color: rgba(0, 0, 0, 0); --ch5-button--label-margin-top: 0px; Label_margin-top: 0px; --ch5-button--label-margin-left: 0px; Label_margin-left: 0px; --ch5-button--default-border-color: #000000; Appearance_border-color: #000000; --ch5-button--default-border-style: solid; Appearance_border-style: solid; --ch5-button--default-label-font-color: #ffffff; Label_color: #ffffff; custom-normal-label-font-size: 15px; --ch5-button--regular-font-size: 15px; Label_font-size: 15px; --ch5-button--regular-pressed-image-width: 60%; pressedImage_width: 60%; --ch5-button--regular-pressed-image-height: 60%; pressedImage_height: 60%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(125, 126, 127, 0.4); pressedAppearance_background-color: rgba(125, 126, 127, 0.4); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px; --ch5-button--regular-selected-image-width: 60%; selectedImage_width: 60%; --ch5-button--regular-selected-image-height: 60%; selectedImage_height: 60%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(255, 59, 48, 0.95); selectedAppearance_background-color: rgba(255, 59, 48, 0.95); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #ilkz .ch5-button--span * { margin: 0px } #ilkz[mode="0"][pressed="true"] { --ch5-button--regular-pressed-image-width: 60%; pressedImage_width: 60%; --ch5-button--regular-pressed-image-height: 60%; pressedImage_height: 60%; --ch5-button--default-pressed-border-width: 0px; pressedAppearance_border-width: 0px; --ch5-button--default-pressed-background-color: rgba(125, 126, 127, 0.4); pressedAppearance_background-color: rgba(125, 126, 127, 0.4); --ch5-button--pressed-label-margin-top: 0px; pressedLabel_margin-top: 0px; --ch5-button--pressed-label-margin-left: 0px; pressedLabel_margin-left: 0px; --ch5-button--default-pressed-border-style: none; pressedAppearance_border-style: none; --ch5-button--default-pressed-label-font-color: #ffffff; pressedLabel_color: #ffffff; custom-pressed-label-font-size: 15px; --ch5-button--regular-pressed-font-size: 15px; pressedLabel_font-size: 15px } #ilkz[mode="0"][selected="true"] { --ch5-button--regular-selected-image-width: 60%; selectedImage_width: 60%; --ch5-button--regular-selected-image-height: 60%; selectedImage_height: 60%; --ch5-button--default-selected-border-width: 0px; selectedAppearance_border-width: 0px; --ch5-button--default-selected-background-color: rgba(255, 59, 48, 0.95); selectedAppearance_background-color: rgba(255, 59, 48, 0.95); --ch5-button--selected-label-margin-top: 0px; selectedLabel_margin-top: 0px; --ch5-button--selected-label-margin-left: 0px; selectedLabel_margin-left: 0px; --ch5-button--default-selected-border-style: none; selectedAppearance_border-style: none; --ch5-button--default-selected-label-font-color: #ffffff; selectedLabel_color: #ffffff; --ch5-button--regular-selected-font-size: 15px; selectedLabel_font-size: 15px } #iecl { display: block; position: absolute; overflow: hidden; --ch5-image--object-fit: contain; Appearance_object-fit: contain; --ch5-image--border-color: transparent; Appearance_border-color: transparent; --ch5-image--border-width: 0px; Appearance_border-width: 0px; --ch5-image--border-style: none; Appearance_border-style: none; font-family: Roboto; top: 23px; left: 17px; width: 151px; --ch5-image--width: 151px; --ch5-image--height: 151px; height: 41px } #iecl .ch5-image-child { display: block; position: absolute; z-index: 0; width: inherit; height: inherit; left: 0; top: 0; overflow: hidden; border-radius: 50%; border-width: inherit; border-style: inherit } #izh9 { display: block; position: absolute; font-family: Roboto; --ch5-text--font-weight: 400; Label_font-weight: 400; --ch5-text--text-decoration: none; Label_text-decoration: none; --ch5-text--background-color: rgba(0,0,0,0); Appearance_background-color: rgba(0,0,0,0); --ch5-text--border-color: rgba(0,0,0,0); Appearance_border-color: rgba(0,0,0,0); --ch5-text--border-width: medium; Appearance_border-width: medium; --ch5-text--border-style: none; Appearance_border-style: none; top: 7px; left: 375px; width: 530px; --ch5-text--width: 530px; height: 75px; --ch5-text--height: 75px; --ch5-text--font-color: #000000; Label_color: #000000; --ch5-text--font-size: 42px; Label_font-size: 42px } }
+
+{PageAttributes}
+
+[Attributes]
+Name = "av - header"
+PageMode = "absolute"
+Id = "1fc84fe0-e0a8-447b-86a1-a3ebf0223666"
+DisplayBackgroundColor = "False"
+BackgroundColor = "rgb(0,113,188)"
+
+[[Elements]]
+Name = ""
+Type = "widgetContainer"
+Status = ""
+Content = ""
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Image Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-image-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+id = "i870"
+class = "ch5-image-child"
+assetid = "29d04623-d805-4c90-b6d3-6c54e70e2414"
+url = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/a0c30a33-7896-4b65-ad8d-ba4c9be6c5d4/g3piijxg.png"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+
+[Elements.Components.Attributes]
+mode = "0"
+customvstheme = "custom"
+refreshrate = "0"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "izut"
+componentName = "ImageObject_61"
+numberofmodes = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Button"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "ifly"
+componentName = "normal"
+state = "normal"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "bad051ae-23f8-45fe-bb51-a995d1e58494"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/14c34ae0-bbb9-4e44-a31c-e09702c073a5/e2vfssfq.png"
+valignlabel = "middle"
+labelinnerhtml = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_Label = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_ActiveFont = "Roboto"
+halignlabel = "right"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "idwm"
+componentName = "pressed"
+state = "pressed"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "bad051ae-23f8-45fe-bb51-a995d1e58494"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/14c34ae0-bbb9-4e44-a31c-e09702c073a5/e2vfssfq.png"
+valignlabel = "middle"
+labelinnerhtml = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_Label = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_ActiveFont = "Roboto"
+halignlabel = "right"
+[[Elements.Components.Components.Components]]
+Name = ""
+Type = "Ch5 Button Mode State"
+Status = ""
+Content = ""
+Classes = ["ch5-button-child"]
+
+[Elements.Components.Components.Components.Attributes]
+id = "ifqn"
+componentName = "selected"
+state = "selected"
+class = "ch5-button-child"
+ccid_imageIconType = "imageasset"
+type = "default"
+devicesVisited = "[\"TSW-1070\"]"
+ccid_themeCSSSet = "true"
+iconposition = "first"
+iconurlfilltype = "initial"
+assetid = "bad051ae-23f8-45fe-bb51-a995d1e58494"
+iconurl = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/14c34ae0-bbb9-4e44-a31c-e09702c073a5/e2vfssfq.png"
+valignlabel = "middle"
+labelinnerhtml = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_Label = "<p style=\"text-align: right;\"><span  style=\" font-size: 16px; color: rgb(0,0,0);\">System<BR/>Off</span></p>"
+ccid_ActiveFont = "Roboto"
+halignlabel = "right"
+
+[Elements.Components.Components.Attributes]
+componentName = "Mode 0"
+modecount = "0"
+id = "i9ga"
+class = "ch5-button-child"
+type = "default"
+
+[Elements.Components.Attributes]
+tagName = "ch5-button"
+ccid_componenttype = "advancedbutton"
+ccid_ch5Type = "button"
+ccid_syncproperties = "disabled"
+ccid_advancedsyncproperties = "disabled"
+affectedByPreviewState = "True"
+customvstheme = "custom"
+clearLabel = "true"
+pageFlipAttributeName = "pageflip"
+size = "custom"
+orientation = "horizontal"
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+ccid_imageIconType = "imageasset"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+shape = "rounded-rectangle"
+iconposition = "first"
+devicesVisited = "[\"TSW-1070\"]"
+mode = "0"
+id = "ilkz"
+labelinnerhtml = ""
+ccid_Label = ""
+labelmode = "advanced"
+componentName = "AdvancedButton_192"
+pageflip = "0"
+pd-receivestateselected = "13"
+sendeventontouch = "13"
+previewstate = "normal"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Image"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+[[Elements.Components.Components]]
+Name = ""
+Type = "Ch5 Image Mode"
+Status = ""
+Content = ""
+Classes = ["ch5-image-child"]
+
+[Elements.Components.Components.Attributes]
+componentName = "mode 0"
+id = "itn1"
+class = "ch5-image-child"
+assetid = "7e4e9e76-4c4c-43b9-a1e4-1e87f0dba819"
+url = "StaticFiles/b51a1538-7711-4d31-a69a-591285421f24/f21f2224-5547-45f7-b999-b5d52a165e46/qakxeaqj.png"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+
+[Elements.Components.Attributes]
+mode = "0"
+customvstheme = "custom"
+refreshrate = "0"
+allowpositiondatatobesent = "false"
+allowvaluesonmove = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "iecl"
+componentName = "ImageObject_123"
+numberofmodes = "1"
+[[Elements.Components]]
+Name = ""
+Type = "Ch5 Text"
+Status = ""
+Content = ""
+Editable = true
+
+[[Elements.Components.Components]]
+Name = ""
+Type = "textnode"
+Status = ""
+Content = "\n              "
+
+[Elements.Components.Attributes]
+clearLabel = "false"
+ccid_themeCSSSet = "true"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"TSW-1070\"]"
+id = "izh9"
+componentName = "FormattedText_424"
+horizontalalignment = "center"
+verticalalignment = "middle"
+multilinesupport = "true"
+truncatetext = "false"
+labelinnerhtml = "<p style=\"text-align: center;\"><span  style=\" font-size: 37px; color: rgb(0,0,0);\"><ch5-jointotext-string receiveStateValue=\"1\" textWhenEmpty=\"Room Name\"></ch5-jointotext-string></span></p>"
+ccid_Label = "<p style=\"text-align: center;\"><span  style=\" font-size: 37px; color: rgb(0,0,0);\"><cips>1?Room Name</cips></span></p>"
+ccid_ActiveFont = "Roboto"
+labelmodeadvncomponent = "advanced"
+
+[Elements.Attributes]
+devicesVisited = "[\"TSW-1070\"]"
+globalControlContract = "on"
+class = "widget-container"
+id = "irhf5p8yb2"
+componentName = "av - header"
+
