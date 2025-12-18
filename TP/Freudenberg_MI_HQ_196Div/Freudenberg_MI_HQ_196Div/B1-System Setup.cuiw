@@ -1,16 +1,16 @@
 {FileMetadata}
 Schema = "1.0.0.0"
-CreatedByAppHost = "2.701.5.0"
-Created = 2025-12-16 14:41:49.048356-05:00
-LastModifiedByAppHost = "2.701.5.0"
-Modified = 2025-12-16 14:41:49.04835-05:00
-CreatedByProjectApp = "1.4301.17.0"
-LastModifiedByProjectApp = "1.4301.17.0"
+CreatedByAppHost = "2.801.22.0"
+Created = 2025-12-18 10:52:22.270882-05:00
+LastModifiedByAppHost = "2.801.22.0"
+Modified = 2025-12-18 10:52:22.270875-05:00
+CreatedByProjectApp = "1.4401.12.0"
+LastModifiedByProjectApp = "1.4401.12.0"
 MinimumProjectApp = "1.2600.1"
 MinimumAppHost = "2.0.0"
 
 {Html}
-<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="itda3kj5up" devicesvisited="[&quot;Yealink&quot;]" defaultwidth="1919px" defaultheight="750px" class="widget-container"><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="2" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="2" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="custom" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="" pd-buttonreceivestatescriptlabelhtml="" pd-buttonreceivestateiconclass="" buttonsendeventonclick="" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="ip96" componentname="Button List" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;Yealink&quot;]" assetid="0" pd-receivestateselectedbutton="" buttonselected="false"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="iapu" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196C Teams" labelinnerhtml="Room 196C Teams"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="ijru" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196D Teams" labelinnerhtml="Room 196D Teams"></ch5-button-list-individual-button></ch5-button-list><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="4" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="2" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="custom" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="" pd-buttonreceivestatescriptlabelhtml="" pd-buttonreceivestateiconclass="" buttonsendeventonclick="" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="ihzj9qs9qb" componentname="Button List_1" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;Yealink&quot;]" assetid="0" pd-receivestateselectedbutton="" buttonselected="false" oldid="ip96"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="iapu-2" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196A AirMedia" labelinnerhtml="Room 196A AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="ijru-2" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196C AirMedia" labelinnerhtml="Room 196C AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3" id="i60k" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196B AirMedia" labelinnerhtml="Room 196B AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4" id="i1ea" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196D AirMedia" labelinnerhtml="Room 196D AirMedia"></ch5-button-list-individual-button></ch5-button-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ij76w" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Host a call using:" labelinnerhtml="Host a call using:" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;Yealink&quot;]" ccid_themecssset="true">
+<div categoryname="Widget Components" ccid_componenttype="Widget Canvas" id="itda3kj5up" devicesvisited="[&quot;Yealink&quot;]" defaultwidth="1919px" defaultheight="750px" class="widget-container"><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="2" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="2" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="custom" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="ip96" componentname="call_host_btn_list" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;Yealink&quot;]" assetid="0" pd-receivestateselectedbutton="" buttonselected="false" usecontractforitemshow="true"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="iapu" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196C Teams" labelinnerhtml="Room 196C Teams"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="ijru" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196D Teams" labelinnerhtml="Room 196D Teams"></ch5-button-list-individual-button></ch5-button-list><ch5-button-list centeritems="true" columns="1" endless="false" numberofitems="4" orientation="horizontal" previewstate="buttonnormal" usecontractforcustomstyle="false" usecontractforcustomclass="false" rows="2" scrollbar="true" scrolltoposition="0" stretch="null" indexid="idx" customclass="ccid-custom" buttoncheckboxposition="left" buttoncheckboxshow="false" buttonhalignlabel="center" buttonvalignlabel="middle" buttoniconposition="first" buttonmode="0" buttonshape="custom" buttontype="default" buttoniconurlfilltype="initial" pd-receivestateenable="" pd-receivestateshow="" pd-receivestatescrolltoposition="" pd-receivestatenumberofitems="" pd-buttonreceivestateselected="Contract Enabled" pd-buttonreceivestatescriptlabelhtml="" pd-buttonreceivestateiconclass="" buttonsendeventonclick="Contract Enabled" pd-buttonreceivestateenable="" pd-buttonreceivestateshow="Contract Enabled" usecontractforeachbuttonselection="false" affectedbypreviewstate="True" customvstheme="custom" loaditems="visible-only" id="ihzj9qs9qb" componentname="AM_btn_list" ccid_activefont="'Roboto'" ccid_label="" ccid_linksendreceive="True" ccid_imageicontype="iconclass" ccid_componenttype="Button List" devicesvisited="[&quot;Yealink&quot;]" assetid="0" pd-receivestateselectedbutton="" buttonselected="false" oldid="ip96" usecontractforitemshow="true"><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 1" componentnumber="1" id="iapu-2" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196A AirMedia" labelinnerhtml="Room 196A AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 2" componentnumber="2" id="ijru-2" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196C AirMedia" labelinnerhtml="Room 196C AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 3" componentnumber="3" id="i60k" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196B AirMedia" labelinnerhtml="Room 196B AirMedia"></ch5-button-list-individual-button><ch5-button-list-individual-button ccid_imageicontype="iconclass" componentname="Individual Button 4" componentnumber="4" id="i1ea" devicesvisited="[&quot;Yealink&quot;]" pageflipattributename="onRelease" onrelease="0" ccid_label="Room 196D AirMedia" labelinnerhtml="Room 196D AirMedia"></ch5-button-list-individual-button></ch5-button-list><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="ij76w" componentname="Formatted-Text" ccid_activefont="'Roboto'" ccid_label="Host a call using:" labelinnerhtml="Host a call using:" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;Yealink&quot;]" ccid_themecssset="true">
               </ch5-text><ch5-text clearlabel="false" labelmodeadvncomponent="simple" horizontalalignment="center" verticalalignment="middle" multilinesupport="false" truncatetext="false" id="iw1nlr9x9btm4" componentname="Formatted-Text_1" ccid_activefont="'Roboto'" ccid_label="Present to projectors using:" labelinnerhtml="Present to projectors using:" ccid_linksendreceive="True" ccid_componenttype="Formatted-Text" devicesvisited="[&quot;Yealink&quot;]" ccid_themecssset="true" oldid="ij76w"></ch5-text></div>
 
 {Css}
@@ -87,18 +87,18 @@ pd-receivestateenable = ""
 pd-receivestateshow = ""
 pd-receivestatescrolltoposition = ""
 pd-receivestatenumberofitems = ""
-pd-buttonreceivestateselected = ""
+pd-buttonreceivestateselected = "Contract Enabled"
 pd-buttonreceivestatescriptlabelhtml = ""
 pd-buttonreceivestateiconclass = ""
-buttonsendeventonclick = ""
+buttonsendeventonclick = "Contract Enabled"
 pd-buttonreceivestateenable = ""
-pd-buttonreceivestateshow = ""
+pd-buttonreceivestateshow = "Contract Enabled"
 usecontractforeachbuttonselection = "false"
 affectedByPreviewState = "True"
 customvstheme = "custom"
 loaditems = "visible-only"
 id = "ip96"
-componentName = "Button List"
+componentName = "call_host_btn_list"
 ccid_ActiveFont = "'Roboto'"
 ccid_Label = ""
 ccid_linkSendReceive = "True"
@@ -108,6 +108,7 @@ devicesVisited = "[\"Yealink\"]"
 assetid = "0"
 pd-receivestateselectedbutton = ""
 buttonselected = "false"
+useContractForItemShow = "true"
 [[Elements.Components]]
 Type = "Ch5 Button List"
 Editable = true
@@ -193,18 +194,18 @@ pd-receivestateenable = ""
 pd-receivestateshow = ""
 pd-receivestatescrolltoposition = ""
 pd-receivestatenumberofitems = ""
-pd-buttonreceivestateselected = ""
+pd-buttonreceivestateselected = "Contract Enabled"
 pd-buttonreceivestatescriptlabelhtml = ""
 pd-buttonreceivestateiconclass = ""
-buttonsendeventonclick = ""
+buttonsendeventonclick = "Contract Enabled"
 pd-buttonreceivestateenable = ""
-pd-buttonreceivestateshow = ""
+pd-buttonreceivestateshow = "Contract Enabled"
 usecontractforeachbuttonselection = "false"
 affectedByPreviewState = "True"
 customvstheme = "custom"
 loaditems = "visible-only"
 id = "ihzj9qs9qb"
-componentName = "Button List_1"
+componentName = "AM_btn_list"
 ccid_ActiveFont = "'Roboto'"
 ccid_Label = ""
 ccid_linkSendReceive = "True"
@@ -215,6 +216,7 @@ assetid = "0"
 pd-receivestateselectedbutton = ""
 buttonselected = "false"
 oldID = "ip96"
+useContractForItemShow = "true"
 [[Elements.Components]]
 Type = "Ch5 Text"
 Editable = true
